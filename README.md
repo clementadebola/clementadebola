@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently working on MySelf.
 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning ...
 
 - 👯 I’m looking to collaborate on Projects
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites.
+- 💬 Talk to me about hardware, software, design, JavaScript, Freelancing Opportunites.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="center"> <a href="https://reactjs.org/"> <img src="https://skillicons.dev/icons?i=react" width="50px" alt="ReactJS"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=javascript" width="50px" alt="JavaScript"/> </a> &nbsp; <a href="https://nextjs.org/"> <img src="https://skillicons.dev/icons?i=nextjs" width="50px" alt="Next.js"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://skillicons.dev/icons?i=css" width="50px" alt="CSS"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://skillicons.dev/icons?i=html" width="50px" alt="HTML"/> </a> &nbsp; <a href="https://firebase.google.com/"> <img src="https://skillicons.dev/icons?i=firebase" width="50px" alt="Firebase"/> </a> &nbsp; <a href="https://mui.com/"> <img src="https://skillicons.dev/icons?i=materialui" width="50px" alt="Material UI"/> </a> &nbsp; <a href="https://www.typescriptlang.org/"> <img src="https://skillicons.dev/icons?i=typescript" width="50px" alt="TypeScript"/> </a> &nbsp; <a href="https://expo.dev/"> <img src="https://skillicons.dev/icons?i=expo" width="50px" alt="Expo"/> </a> </p>
